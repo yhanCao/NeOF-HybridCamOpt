@@ -56,7 +56,7 @@ python main.py --path random/brother/ --height 0.8 --cameranum 10 \
 
 ## Demo Video
 
-![model](img/model.gif) &nbsp;&nbsp;![scene](img/scene.gif)
+![model](img/model.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![scene](img/scene.gif)
 
 ## Citation
 ```
