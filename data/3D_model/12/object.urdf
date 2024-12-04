@@ -1,0 +1,24 @@
+
+<robot name="Weston_No_33_Signature_Sausage_Tonic_12_fl_oz">
+    <link name="base">
+        <inertial>
+            <origin xyz="3.031846572738751e-19 1.0611463004585628e-18 -4.8509545163820014e-18" />
+            <mass value="0.0004656309430202861" />
+            <inertia ixx="1.2784419512776588e-06" ixy="-2.2245585523322757e-10" 
+                     ixz="-4.346474864412355e-08" iyy="1.2794632779979252e-06" 
+                     iyz="-6.4790807780088754e-09" izz="1.982363398708761e-07" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

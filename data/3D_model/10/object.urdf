@@ -1,0 +1,24 @@
+
+<robot name="Wishbone_Pencil_Case">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0 -2.3604810768309356e-18 2.0982054016274984e-18" />
+            <mass value="0.0010765173534771368" />
+            <inertia ixx="9.247386636478412e-07" ixy="1.0620126596458075e-07" 
+                     ixz="-8.311570980427924e-08" iyy="4.136770204051669e-06" 
+                     iyz="1.825697063548946e-08" izz="4.195207279767406e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Victor_Reversible_Bookend",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.13912399339219977,
+                -0.06317027512172659,
+                -0.09703408557717204
+            ],
+            [
+                0.09581700660780021,
+                0.04573072487827341,
+                0.13939691442282798
+            ]
+        ],
+        "mass": 0.0029010774087651473,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "Victor Reversible Bookend",
+        "nr_faces": 16418,
+        "nr_vertices": 9941,
+        "surface_area": 0.18369892885186712,
+        "volume": 0.0029010774087651473
+    }
+}

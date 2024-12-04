@@ -1,0 +1,24 @@
+
+<robot name="TOOL_BELT">
+    <link name="base">
+        <inertial>
+            <origin xyz="-6.677566508657763e-18 -1.1129277514429604e-18 -1.7806844023087367e-17" />
+            <mass value="0.0020295607896225892" />
+            <inertia ixx="4.037056986109437e-06" ixy="-5.541630190336369e-08" 
+                     ixz="-2.935737465309692e-07" iyy="8.266493170190582e-06" 
+                     iyz="-3.5554267417892874e-08" izz="7.994256220434004e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

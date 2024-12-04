@@ -1,0 +1,24 @@
+
+<robot name="Asus_Sabertooth_990FX_20_Motherboard_ATX_Socket_AM3">
+    <link name="base">
+        <inertial>
+            <origin xyz="9.497760742949732e-18 2.077635162520254e-18 -4.748880371474866e-18" />
+            <mass value="0.00761023011513752" />
+            <inertia ixx="5.047473898774638e-05" ixy="3.3112144420118844e-07" 
+                     ixz="-3.2704520003798653e-07" iyy="0.00012146174654892436" 
+                     iyz="-4.6346733055835783e-07" izz="7.930670767410174e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

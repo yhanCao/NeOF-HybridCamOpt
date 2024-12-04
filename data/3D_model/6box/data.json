@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Asus_Sabertooth_990FX_20_Motherboard_ATX_Socket_AM3",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.17416057908492832,
+                -0.04259733681847225,
+                -0.13786394074002145
+            ],
+            [
+                0.1760404209150717,
+                0.04204366318152775,
+                0.13949005925997857
+            ]
+        ],
+        "mass": 0.00761023011513752,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "None",
+        "description": "Asus Sabertooth 990FX 2.0  Motherboard ATX Socket AM3+",
+        "nr_faces": 1708,
+        "nr_vertices": 931,
+        "surface_area": 0.28206117122094304,
+        "volume": 0.00761023011513752
+    }
+}

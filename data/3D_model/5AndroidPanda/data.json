@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Android_Figure_Panda",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.029883394790535343,
+                -0.023036667409844964,
+                -0.03995078161708675
+            ],
+            [
+                0.03087760520946466,
+                0.023245332590155036,
+                0.03578821838291326
+            ]
+        ],
+        "mass": 9.995828148993216e-05,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "Android Figure, Panda",
+        "nr_faces": 10618,
+        "nr_vertices": 5654,
+        "surface_area": 0.013912816746940207,
+        "volume": 9.995828148993216e-05
+    }
+}

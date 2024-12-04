@@ -1,0 +1,24 @@
+
+<robot name="US_Army_Stash_Lunch_Bag">
+    <link name="base">
+        <inertial>
+            <origin xyz="1.1904204211371757e-18 2.055026722271167e-18 -1.9272398855945936e-17" />
+            <mass value="0.006255631368311293" />
+            <inertia ixx="3.805377395270127e-05" ixy="5.26888269981131e-08" 
+                     ixz="-1.3833834167349088e-06" iyy="4.901628449097542e-05" 
+                     iyz="-1.6324504354960863e-07" izz="2.9203051784055906e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

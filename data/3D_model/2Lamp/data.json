@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "3D_Dollhouse_Lamp",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.024088324656030974,
+                -0.022682253608113854,
+                -0.09719308016472121
+            ],
+            [
+                0.023891675343969025,
+                0.023931746391886145,
+                0.06962791983527877
+            ]
+        ],
+        "mass": 8.886284554864667e-05,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "3D Dollhouse Lamp",
+        "nr_faces": 10490,
+        "nr_vertices": 5497,
+        "surface_area": 0.016527649035403155,
+        "volume": 8.886284554864667e-05
+    }
+}

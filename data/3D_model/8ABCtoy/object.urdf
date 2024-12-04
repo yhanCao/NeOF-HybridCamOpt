@@ -1,0 +1,24 @@
+
+<robot name="Wooden_ABC_123_Blocks_50_pack">
+    <link name="base">
+        <inertial>
+            <origin xyz="-5.76305898130524e-18 5.660147213781932e-19 -1.2761059172890172e-17" />
+            <mass value="0.0013717785756982893" />
+            <inertia ixx="1.889652306556301e-06" ixy="-3.6498268825212024e-09" 
+                     ixz="-4.6788473495653403e-07" iyy="6.403056705808942e-06" 
+                     iyz="1.6124650948426226e-09" izz="5.339853717816615e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

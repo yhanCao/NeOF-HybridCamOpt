@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Weston_No_33_Signature_Sausage_Tonic_12_fl_oz",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.03355905547694444,
+                -0.03139971039026868,
+                -0.08457034172495824
+            ],
+            [
+                0.03193294452305556,
+                0.03109128960973132,
+                0.11410165827504176
+            ]
+        ],
+        "mass": 0.0004656309430202861,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Bottles and Cans and Cups",
+        "description": "Weston No. 33 Signature Sausage Tonic - 12 fl oz\nWeston Premium Jerky Tonic - the cure for the tired tastebud! Our bottles let you use only what you need. Mix one tablespoon of seasoning with one tablespoon of water for every one pound of meat.",
+        "nr_faces": 13526,
+        "nr_vertices": 6893,
+        "surface_area": 0.03794849033846388,
+        "volume": 0.0004656309430202861
+    }
+}

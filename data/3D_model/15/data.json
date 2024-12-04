@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Top_Paw_Dog_Bowl_Blue_Paw_Bone_Ceramic_25_fl_oz_total",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.07618198094161964,
+                -0.07648618715956247,
+                -0.02116079231757927
+            ],
+            [
+                0.07631201905838035,
+                0.07658781284043753,
+                0.03915520768242073
+            ]
+        ],
+        "mass": 0.0002683698064735938,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "None",
+        "description": "Top Paw Dog Bowl, Blue Paw Bone, Ceramic - 25 fl oz total",
+        "nr_faces": 4612,
+        "nr_vertices": 2398,
+        "surface_area": 0.08375569878501686,
+        "volume": 0.0002683698064735938
+    }
+}

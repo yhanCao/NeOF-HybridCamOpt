@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Wooden_ABC_123_Blocks_50_pack",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.11439469268984687,
+                -0.03135370581066564,
+                -0.056150506409626426
+            ],
+            [
+                0.09948630731015314,
+                0.031289294189334356,
+                0.06700549359037358
+            ]
+        ],
+        "mass": 0.0013717785756982893,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "Wooden ABC 123 Blocks - 50 pack",
+        "nr_faces": 16908,
+        "nr_vertices": 8708,
+        "surface_area": 0.08856663179830497,
+        "volume": 0.0013717785756982893
+    }
+}

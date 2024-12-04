@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Twinlab_100_Whey_Protein_Fuel_Vanilla",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.07943785898576189,
+                -0.07848040032321862,
+                -0.12339082508712153
+            ],
+            [
+                0.07935014101423812,
+                0.07845459967678138,
+                0.13578317491287845
+            ]
+        ],
+        "mass": 0.004563156495156107,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Bottles and Cans and Cups",
+        "description": "Twinlab 100% Whey Protein Fuel Vanilla\nOur 100% Whey Fuel ever is a superior blend of high quality, bioavailable whey proteins that's fully instantized, quick dissolving and easy to mix with a rich, creamy taste in both water and skim milk.  100% Whey Fuel stimulates muscle protein anabolism, which maximizes muscle growth that occurs after exercise by enhancing muscle building and lean tissue mass.* It also increases muscle performance and improves post-workout recovery.* Clinical studies show that whey protein is one of the most anabolic muscle building proteins available, providing a rapid drive of amino acids to skeletal muscle tissue, thereby increasing the effects of weight training.* Enhanced muscle protein anabolism increases muscle growth to maximize gains.* Additionally, research shows that whey protein is among the most easily digested and absorbed proteins, and has one of the highest Protein Efficiency Ratios, providing more branched chain amino acids than most other proteins. 100% Whey Fuel stimulates muscle protein anabolism, which maximizes muscle growth that occurs after exercise by enhancing muscle building and lean tissue mass.* It also increases muscle performance and improves post-workout recovery*.  *These statements have not been evaluated by the Food and Drug Administration.  This product is not intended to diagnose, treat, cure or prevent disease.",
+        "nr_faces": 10072,
+        "nr_vertices": 5171,
+        "surface_area": 0.15138050733615543,
+        "volume": 0.004563156495156107
+    }
+}

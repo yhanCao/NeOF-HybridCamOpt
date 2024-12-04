@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "3D_Dollhouse_Happy_Brother",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.026723852722585442,
+                -0.01745439572330229,
+                -0.047557430906925276
+            ],
+            [
+                0.03264914727741456,
+                0.013312604276697709,
+                0.047942569093074726
+            ]
+        ],
+        "mass": 4.4849064412948164e-05,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "3D Dollhouse Happy Brother",
+        "nr_faces": 14142,
+        "nr_vertices": 7505,
+        "surface_area": 0.011254228026575316,
+        "volume": 4.4849064412948164e-05
+    }
+}

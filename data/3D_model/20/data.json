@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "US_Army_Stash_Lunch_Bag",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.11364211946578773,
+                -0.08430692896243164,
+                -0.11616274983820891
+            ],
+            [
+                0.11091888053421227,
+                0.07667707103756835,
+                0.1576452501617911
+            ]
+        ],
+        "mass": 0.006255631368311293,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Bag",
+        "description": "U.S. Army Stash Lunch Bag",
+        "nr_faces": 16422,
+        "nr_vertices": 8567,
+        "surface_area": 0.24424847347427428,
+        "volume": 0.006255631368311293
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "3D_Dollhouse_Refrigerator",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.039865447079539956,
+                -0.0406425931968834,
+                -0.10549159907347196
+            ],
+            [
+                0.039841552920460044,
+                0.032817406803116594,
+                0.10447740092652803
+            ]
+        ],
+        "mass": 0.0010273192164318907,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "3D Dollhouse Refrigerator",
+        "nr_faces": 3202,
+        "nr_vertices": 1808,
+        "surface_area": 0.07104691980953148,
+        "volume": 0.0010273192164318907
+    }
+}

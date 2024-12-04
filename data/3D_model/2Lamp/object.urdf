@@ -1,0 +1,24 @@
+
+<robot name="3D_Dollhouse_Lamp">
+    <link name="base">
+        <inertial>
+            <origin xyz="-9.929076446693492e-19 9.929076446693493e-20 -5.0836871407070687e-17" />
+            <mass value="8.886284554864667e-05" />
+            <inertia ixx="2.9807384548832836e-07" ixy="1.608794342600217e-10" 
+                     ixz="8.585374836987562e-09" iyy="2.98212999411323e-07" 
+                     iyz="-5.050269382092916e-09" izz="1.4388478897282012e-08" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

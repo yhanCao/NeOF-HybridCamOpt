@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "TWISTED_PUZZLE_twb4AyFtu8Q",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.15797838212145116,
+                -0.09597920840494203,
+                -0.014180748762219942
+            ],
+            [
+                0.14447561787854885,
+                0.10806379159505797,
+                0.021188251237780058
+            ]
+        ],
+        "mass": 0.0004940785083905315,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "TWISTED PUZZLE\nTwisted and turn the blocks to complete the patterns on the guide. Go wild and create your own designs.",
+        "nr_faces": 3470,
+        "nr_vertices": 2054,
+        "surface_area": 0.10268670500771193,
+        "volume": 0.0004940785083905315
+    }
+}

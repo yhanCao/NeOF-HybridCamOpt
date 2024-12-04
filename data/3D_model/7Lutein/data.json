@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Blackcurrant_Lutein",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.027082813090194068,
+                -0.027036048404132193,
+                -0.04430024101524923
+            ],
+            [
+                0.027074186909805932,
+                0.026853951595867807,
+                0.053011758984750766
+            ]
+        ],
+        "mass": 0.00019092386043151614,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Bottles and Cans and Cups",
+        "description": "Blackcurrant + Lutein",
+        "nr_faces": 8676,
+        "nr_vertices": 4450,
+        "surface_area": 0.019156671989031857,
+        "volume": 0.00019092386043151614
+    }
+}

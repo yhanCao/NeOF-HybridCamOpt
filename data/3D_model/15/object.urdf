@@ -1,0 +1,24 @@
+
+<robot name="Top_Paw_Dog_Bowl_Blue_Paw_Bone_Ceramic_25_fl_oz_total">
+    <link name="base">
+        <inertial>
+            <origin xyz="2.104143677423821e-18 -6.312431032271464e-18 -2.104143677423821e-18" />
+            <mass value="0.0002683698064735938" />
+            <inertia ixx="6.546970142104672e-07" ixy="-2.542917164858849e-10" 
+                     ixz="-3.486720390788804e-09" iyy="6.607441490902868e-07" 
+                     iyz="-3.284092910219557e-10" izz="1.1366503012745396e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

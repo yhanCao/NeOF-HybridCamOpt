@@ -1,0 +1,24 @@
+
+<robot name="3D_Dollhouse_Refrigerator">
+    <link name="base">
+        <inertial>
+            <origin xyz="5.49672022552208e-19 -5.49672022552208e-19 -3.517900944334131e-17" />
+            <mass value="0.0010273192164318907" />
+            <inertia ixx="4.073828251155123e-06" ixy="7.435071274210803e-10" 
+                     ixz="2.632512108937157e-08" iyy="4.239970250150577e-06" 
+                     iyz="4.4831011497772556e-08" izz="8.657308584695264e-07" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

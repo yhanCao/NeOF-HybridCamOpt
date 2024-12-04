@@ -1,0 +1,24 @@
+
+<robot name="TriStar_Products_PPC_Power_Pressure_Cooker_XL_in_Black">
+    <link name="base">
+        <inertial>
+            <origin xyz="-8.258654085252972e-19 1.7205529344277023e-18 2.2023077560674592e-18" />
+            <mass value="0.016410091785135805" />
+            <inertia ixx="0.00017607879002694244" ixy="-1.8131136390814065e-07" 
+                     ixz="5.163361679723276e-07" iyy="0.00017559193295058566" 
+                     iyz="-3.5659103082768335e-07" izz="0.00015855835416565725" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

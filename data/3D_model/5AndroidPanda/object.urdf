@@ -1,0 +1,24 @@
+
+<robot name="Android_Figure_Panda">
+    <link name="base">
+        <inertial>
+            <origin xyz="-3.5307769344237787e-19 0.0 2.824621547539023e-18" />
+            <mass value="9.995828148993216e-05" />
+            <inertia ixx="4.312341818959575e-08" ixy="-1.6810971976771642e-09" 
+                     ixz="1.3282313247947319e-10" iyy="4.481618958038638e-08" 
+                     iyz="1.5728187269877798e-10" izz="2.6377678988387165e-08" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

@@ -1,0 +1,24 @@
+
+<robot name="VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE">
+    <link name="base">
+        <inertial>
+            <origin xyz="2.766782877432846e-18 -1.7292392983955287e-18 0.0" />
+            <mass value="0.0016327660145903811" />
+            <inertia ixx="6.20582461823159e-06" ixy="-1.5389272784450488e-09" 
+                     ixz="-2.5161077704556712e-08" iyy="8.317265444315217e-06" 
+                     iyz="6.693246467337723e-08" izz="2.99553317948349e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

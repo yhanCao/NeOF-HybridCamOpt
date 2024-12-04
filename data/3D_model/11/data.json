@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Whey_Protein_Vanilla_12_Packets",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.05218807356996196,
+                -0.07776083875410357,
+                -0.07776222382215273
+            ],
+            [
+                0.052360926430038035,
+                0.07797816124589642,
+                0.07781677617784727
+            ]
+        ],
+        "mass": 0.0024290801366861027,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "Whey Protein, Vanilla - 12 Packets\nJarrow FORMULAS WHEY PROTEIN is a 100%  natural protein concentrate of whey, from cows not treated with growth hormone (rBST), and is ultrafiltered to be low in fat, lactose and carbohydrates. WHEY PROTEIN is a rich natural source of BCAAs (Isoleucine, Leucine and Valine). Each packet (26 grams) of WHEY PROTEIN provides a total of 4 grams of BCAAs. No other source of protein provides as much of the BCAAs as whey. WHEY PROTEIN is rich in essential amino acids, ranking it with egg as one of the highest quality protein sources available. *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+        "nr_faces": 2778,
+        "nr_vertices": 1502,
+        "surface_area": 0.10721852079700432,
+        "volume": 0.0024290801366861027
+    }
+}

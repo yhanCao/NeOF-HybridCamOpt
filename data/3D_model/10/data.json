@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Wishbone_Pencil_Case",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.11194779482646101,
+                -0.04552102756148127,
+                -0.040896538864103174
+            ],
+            [
+                0.109225205173539,
+                0.047297972438518736,
+                0.05365446113589682
+            ]
+        ],
+        "mass": 0.0010765173534771368,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Bag",
+        "description": "Wishbone Pencil Case",
+        "nr_faces": 11502,
+        "nr_vertices": 6249,
+        "surface_area": 0.06707644085222073,
+        "volume": 0.0010765173534771368
+    }
+}

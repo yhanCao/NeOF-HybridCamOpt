@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "TOOL_BELT",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.15789090695856695,
+                -0.08256239849743517,
+                -0.055706494961239
+            ],
+            [
+                0.10342209304143303,
+                0.08060060150256483,
+                0.104878505038761
+            ]
+        ],
+        "mass": 0.0020295607896225892,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "TOOL BELT\nBuild a bridge or fix a door. This handy, children?s tool belt fits up to a 25? waist. Includes a hammer, wrench, screwdriver, level tool, and a measuring tape. The fabric tool belt is hand and machine washable.",
+        "nr_faces": 24358,
+        "nr_vertices": 13999,
+        "surface_area": 0.14009421860891194,
+        "volume": 0.0020295607896225892
+    }
+}

@@ -1,0 +1,24 @@
+
+<robot name="3D_Dollhouse_Happy_Brother">
+    <link name="base">
+        <inertial>
+            <origin xyz="-3.934646121485189e-19 2.9509845911138917e-19 6.295433794376302e-18" />
+            <mass value="4.4849064412948164e-05" />
+            <inertia ixx="2.8318199261678517e-08" ixy="-1.880463159520058e-10" 
+                     ixz="7.680615840763376e-10" iyy="3.1880446610651795e-08" 
+                     iyz="-8.066068741862222e-10" izz="6.107168789079983e-09" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

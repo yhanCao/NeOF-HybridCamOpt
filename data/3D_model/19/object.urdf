@@ -1,0 +1,24 @@
+
+<robot name="TWISTED_PUZZLE_twb4AyFtu8Q">
+    <link name="base">
+        <inertial>
+            <origin xyz="4.571651038555382e-18 -2.285825519277691e-18 -1.2143448071162733e-18" />
+            <mass value="0.0004940785083905315" />
+            <inertia ixx="1.2292798904385612e-06" ixy="3.9526811189395497e-07" 
+                     ixz="3.287016154856234e-08" iyy="2.3051642691720047e-06" 
+                     iyz="-3.808171533335979e-08" izz="3.4883844142373936e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

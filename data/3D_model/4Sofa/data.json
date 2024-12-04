@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "3D_Dollhouse_Sofa",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.1050882917650944,
+                -0.052434382993111456,
+                -0.04719362216988259
+            ],
+            [
+                0.1045447082349056,
+                0.03437961700688854,
+                0.055100377830117404
+            ]
+        ],
+        "mass": 0.000618820027269369,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Toys",
+        "description": "3D Dollhouse Sofa",
+        "nr_faces": 15052,
+        "nr_vertices": 7812,
+        "surface_area": 0.08308729649613138,
+        "volume": 0.000618820027269369
+    }
+}

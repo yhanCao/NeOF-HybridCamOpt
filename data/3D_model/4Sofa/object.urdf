@@ -1,0 +1,24 @@
+
+<robot name="3D_Dollhouse_Sofa">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0 -1.8250496319410844e-18 2.7375744479116266e-18" />
+            <mass value="0.000618820027269369" />
+            <inertia ixx="6.442445732586611e-07" ixy="2.4526589739188007e-09" 
+                     ixz="-2.2219656513918506e-08" iyy="2.628244538704643e-06" 
+                     iyz="-1.4723763831961676e-07" izz="2.771637611006541e-06" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

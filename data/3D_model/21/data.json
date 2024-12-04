@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.07028326705229837,
+                -0.030467015156855716,
+                -0.10446343659509462
+            ],
+            [
+                0.06981973294770163,
+                0.029868984843144285,
+                0.10471056340490537
+            ]
+        ],
+        "mass": 0.0016327660145903811,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "VAN'S FIRE ROASTED VEGGIE CRACKERS GLUTEN FREE",
+        "nr_faces": 2016,
+        "nr_vertices": 1088,
+        "surface_area": 0.09301926703849578,
+        "volume": 0.0016327660145903811
+    }
+}

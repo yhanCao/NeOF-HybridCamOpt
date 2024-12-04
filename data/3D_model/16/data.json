@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "TriStar_Products_PPC_Power_Pressure_Cooker_XL_in_Black",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.15716797727357207,
+                -0.15023503156399504,
+                -0.1414811110120076
+            ],
+            [
+                0.15469802272642794,
+                0.14355196843600496,
+                0.1882458889879924
+            ]
+        ],
+        "mass": 0.016410091785135805,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "None",
+        "description": "Tri-Star Products PPC Power Pressure Cooker XL in Black",
+        "nr_faces": 25054,
+        "nr_vertices": 12981,
+        "surface_area": 0.3885968384307551,
+        "volume": 0.016410091785135805
+    }
+}

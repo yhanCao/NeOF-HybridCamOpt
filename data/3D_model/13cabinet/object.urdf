@@ -1,0 +1,24 @@
+
+<robot name="Victor_Reversible_Bookend">
+    <link name="base">
+        <inertial>
+            <origin xyz="-4.184929895572628e-18 -3.1082836869732744e-18 -2.685532774557144e-17" />
+            <mass value="0.0029010774087651473" />
+            <inertia ixx="1.3507376439023255e-05" ixy="3.205091471044287e-08" 
+                     ixz="-4.610751529249798e-06" iyy="2.2602922096355395e-05" 
+                     iyz="2.8469844711620357e-08" izz="1.3340679717832005e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

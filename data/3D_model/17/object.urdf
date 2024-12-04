@@ -1,0 +1,24 @@
+
+<robot name="Twinlab_100_Whey_Protein_Fuel_Vanilla">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0 1.2374956504391127e-18 0.0" />
+            <mass value="0.004563156495156107" />
+            <inertia ixx="2.9127181398019643e-05" ixy="-1.4289771546003285e-08" 
+                     ixz="-2.144811926588727e-07" iyy="2.913715099009232e-05" 
+                     iyz="-3.177393411351253e-09" izz="1.3267058535810415e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="visual_geometry.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0 0 0" />
+            <geometry>
+                <mesh filename="collision_geometry.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

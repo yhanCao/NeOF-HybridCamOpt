@@ -1,0 +1,30 @@
+{
+    "asset_type": "FileBasedObject",
+    "id": "Wrigley_Orbit_Mint_Variety_18_Count",
+    "kwargs": {
+        "bounds": [
+            [
+                -0.0971366200074548,
+                -0.025296157688809953,
+                -0.11438414102491057
+            ],
+            [
+                0.0974373799925452,
+                0.025720842311190047,
+                0.11462885897508944
+            ]
+        ],
+        "mass": 0.0020922213556522932,
+        "render_filename": "{asset_dir}/visual_geometry.obj",
+        "simulation_filename": "{asset_dir}/object.urdf"
+    },
+    "license": "CC BY-SA 4.0",
+    "metadata": {
+        "category": "Consumer Goods",
+        "description": "Wrigley Orbit Mint Variety 18 Count",
+        "nr_faces": 2634,
+        "nr_vertices": 1383,
+        "surface_area": 0.12415591364351818,
+        "volume": 0.0020922213556522932
+    }
+}
