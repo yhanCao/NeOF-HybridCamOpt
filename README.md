@@ -1,6 +1,6 @@
 # Neural Observation Field Guided Hybrid Optimization of Camera Placement
 
-This work is based on our paper [NeOF Guided Hybrid Opt. of Camera Placement](https://ieeexplore.ieee.org/document/10638696). we present a hybrid camera placement optimization approach that incorporates both gradient-based and non-gradient-based optimization methods guided by a neural observation field. Our work is implemented in PyTorch.
+This work is based on our RAL 2024 paper [NeOF Guided Hybrid Opt. of Camera Placement](https://ieeexplore.ieee.org/document/10638696). we present a hybrid camera placement optimization approach that incorporates both gradient-based and non-gradient-based optimization methods guided by a neural observation field. Our work is implemented in PyTorch.
 
 **Author:** Yihan Cao, Jiazhao Zhang, Zhinan Yu, and Kai Xu
 
